@@ -7,10 +7,44 @@ $RECYCLE.BIN/
 # Logs
 *.log
 *.tmp
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
 # Editor
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Local env
+# Local Environment & Secrets
 .env
+.env.local
+.env.*.local
+.secret
+secrets.yaml
+
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+
+# OpenClaw Specific
+.openclaw/
+workspace/
+# Exclude session data but keep structure if needed (usually in .openclaw/sessions)
+**/sessions/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# A0 Specific
+A0_Memory/
