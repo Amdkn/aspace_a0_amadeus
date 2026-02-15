@@ -10,7 +10,7 @@
 Ce dossier n'est pas une simple collection de fichiers. C'est une **superposition de réalités**.
 Tout comme les poupées russes, chaque couche protège et contient la suivante. La structure est fractale et biologique.
 
-**Le Corps (A0)** contient **l'Infrastructure (Tech)**, qui soutient **la Vie (Life)**, qui alimente **l'Oeuvre (Business)**.
+**A0 (L'Identité)** pilote **L0 (La Tech)**, qui soutient **L1 (La Vie)**, qui alimente **L2 (Le Business)**.
 
 Rien n'existe en dehors de cette hiérarchie. C'est le **Sovereign Kernel**.
 
@@ -18,25 +18,25 @@ Rien n'existe en dehors de cette hiérarchie. C'est le **Sovereign Kernel**.
 
 ## 🗺️ THE ATLAS: STRUCTURE & NAVIGATION
 
-### [LAYER 0 : L'ÂME & LE CORPS](00_Amadeus/)
-**Gardien :** A0 & OpenClaw 🦾
+### [00_AMADEUS : THE IDENTITY CORE](00_Amadeus/)
+**Gardien :** A0 Amadeus 🧠
 **Mission :** Identité, Biométrie & Incarnation Physique.
-*C'est le substrat biologique et identitaire. Sans lui, rien ne tourne.*
+*C'est le Pilote. L'Âme du système.*
 
-### [LAYER 1 : TECH OS](10_Tech_OS/)
+### [LAYER 0 : THE BEDROCK (Tech OS)](10_Tech_OS/)
 **Gardien :** Rick Sanchez ⚡
 **Mission :** Souveraineté, Infrastructure & TARDIS.
 *Le conteneur technologique. Docker, Scripts, Sécurité. C'est le moteur sous le capot.*
 
-### [LAYER 2 : LIFE OS](20_Life_OS/)
+### [LAYER 1 : LIFE OS (The Fleet)](20_Life_OS/)
 **Gardien :** Beth, Morty & Star Fleet 🛸
 **Mission :** Sens, Temps, Équilibre & Exécution.
-*Le système d'exploitation de l'humain. Ikigai,Life Wheel, 12 Week Year, PARA,GTD, DEAL, . C'est ici que l'on vit.*
+*Le système d'exploitation de l'humain. Ikigai, Life Wheel, 12 Week Year, PARA, GTD, DEAL. C'est ici que l'on vit.*
 
-### [LAYER 3 : BUSINESS OS](30_Business_OS/)
-**Gardien :** Jerry & Justice League 🏭
+### [LAYER 2 : BUSINESS PULSE (The Factory)](30_Business_OS/)
+**Gardien :** Jerry & Summer (Fractal Engine) 🏭
 **Mission :** Cashflow, Opérations & Impact.
-*L'usine à valeur. Marketing, Vente, Produit. C'est ici que l'on produit.*
+*L'usine à valeur. DC/Marvel Squads (01-07). C'est ici que l'on produit.*
 
 ---
 
@@ -49,7 +49,7 @@ Chaque octet doit avoir sa place. Si un fichier traîne à la racine, c'est une 
 ### 2. SYNC & FLUX 🔄
 - **10_Tech_OS** est la loi du code, géré par Git et Rick.
 - **20_Life_OS** est la loi du flux, organique et fluide.
-- **30_Business_OS** est la loi du marché, rigoureuse et séquentielle.
+- **30_Business_OS** est la loi du marché, rigoureuse et fractale (Macro/Micro).
 
 ### 3. PHYSICAL INTERFACE 🔌
 Ce Kernel est directement connecté au **Neural Link** et au bras robotique **OpenClaw**.
@@ -61,18 +61,18 @@ Ce Kernel est directement connecté au **Neural Link** et au bras robotique **Op
 
 ```text
 ~/Aspace_A0_Amadeus
-├── 00_Amadeus/          [Soul & Body]
-│   ├── 01_Identity_Core
-│   ├── 02_Bio_Metrics
-│   └── 03_OpenClaw_Body
+├── 00_Amadeus/          [Identity Core]
+│   ├── 01_Identity_Core [Config Soul]
+│   ├── 02_Bio_Metrics   [Health Stats]
+│   └── 03_OpenClaw_Body [Physical Body]
 │
-├── 10_Tech_OS/          [Infrastructure]
+├── 10_Tech_OS/          [Layer 0: Bedrock]
 │   ├── 00_Governance_Rick
 │   ├── 11_Infra_13th_Doctor
 │   ├── 12_Interface_11th_Doctor
 │   └── 13_Data_12th_Doctor
 │
-├── 20_Life_OS/          [Governance]
+├── 20_Life_OS/          [Layer 1: Life Fleet]
 │   ├── 21_Ikigai_Orville
 │   ├── 22_Wheel_Discovery
 │   ├── 23_12WY_SNW
@@ -80,7 +80,7 @@ Ce Kernel est directement connecté au **Neural Link** et au bras robotique **Op
 │   ├── 25_GTD_Cerritos
 │   └── 26_DEAL_Protostar
 │
-└── 30_Business_OS/      [Factory]
+└── 30_Business_OS/      [Layer 2: Business Pulse]
     ├── 01_People_GreenLantern
     ├── 02_IT_Cyborg
     ├── 03_Operations_Batman
