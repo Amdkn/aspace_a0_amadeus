@@ -54,7 +54,7 @@
 * **[A2] Discovery**: **Manager of Balance**. `agents/L1_A2_USS_Discovery.md`
     * **Crew**: [Book](agents/L1_A3_Book.md) (Biz), [Saru](agents/L1_A3_Saru.md) (Finance), [Culber](agents/L1_A3_Culber.md) (Health), [Tilly](agents/L1_A3_Tilly.md) (Mind), [Stamets](agents/L1_A3_Stamets.md) (Social), [Burnham](agents/L1_A3_Burnham.md) (Family), [Reno](agents/L1_A3_Reno.md) (Play), [Georgiou](agents/L1_A3_Georgiou.md) (Impact).
 
-#### **3. USS Strange New Worlds (Execution Engine)** - *12WY*
+#### **3. USS SNW (Execution Engine)** - *12WY*
 * **[A2] SNW**: **Manager of Execution (Quarterly)**. `agents/L1_A2_USS_SNW.md`
     * **Crew**: [Pike](agents/L1_A3_Pike.md) (Vision), [Una](agents/L1_A3_Una.md) (Weekly), [M'Benga](agents/L1_A3_MBenga.md) (Focus), [Chapel](agents/L1_A3_Chapel.md) (Measure), [Uhura](agents/L1_A3_Uhura.md) (Comms).
 
@@ -72,6 +72,39 @@
 
 ---
 
-## 💼 Layer 2: Business Pulse (The Inhabitants)
+## 💼 Layer 2: Business Pulse (The Engine)
+*Commanded by Jerry (Macro) & Summer (Micro).*
+
+### The Command (A"1)
 * **[A1] Jerry**: **Face (CEO)**. Uses the Factory. `agents/L2_A1_Jerry.md`
 * **[A1] Summer**: **Hands (Nano Claw)**. Operates the Pipelines. `agents/L2_A1_Summer.md`
+
+### The Justice League (A"2) & Marvel Squads (A"3)
+
+#### **1. Growth Sector (Superman)** - *Guardians of the Galaxy*
+* **[A2] Superman**: **Manager of Growth**. `agents/L2_A2_Superman.md`
+    * **Squad**: [Star-Lord](agents/L2_A3_StarLord.md) (Copy), [Rocket](agents/L2_A3_Rocket.md) (Ads), [Gamora](agents/L2_A3_Gamora.md) (Pipeline), [Groot](agents/L2_A3_Groot.md) (Brand).
+
+#### **2. Ops Sector (Batman)** - *Fantastic Four*
+* **[A2] Batman**: **Manager of Ops**. `agents/L2_A2_Batman.md`
+    * **Squad**: [Mr. Fantastic](agents/L2_A3_MrFantastic.md) (Arch), [Inv. Woman](agents/L2_A3_InvisibleWoman.md) (Docs), [The Thing](agents/L2_A3_TheThing.md) (Stability), [Human Torch](agents/L2_A3_HumanTorch.md) (Speed).
+
+#### **3. Product Sector (Flash)** - *The Avengers*
+* **[A2] Flash**: **Manager of Product**. `agents/L2_A2_Flash.md`
+    * **Squad**: [Cap](agents/L2_A3_CaptainAmerica.md) (QA), [Iron Man](agents/L2_A3_IronMan.md) (Build), [Thor](agents/L2_A3_Thor.md) (Ship), [Widow](agents/L2_A3_BlackWidow.md) (Research).
+
+#### **4. Finance Sector (Wonder Woman)** - *Thunderbolts*
+* **[A2] Wonder Woman**: **Manager of Finance**. `agents/L2_A2_WonderWoman.md`
+    * **Squad**: [Red Hulk](agents/L2_A3_RedHulk.md) (Budget), [Taskmaster](agents/L2_A3_Taskmaster.md) (Account), [Zemo](agents/L2_A3_BaronZemo.md) (Strat), [Ghost](agents/L2_A3_Ghost.md) (Leaks).
+
+#### **5. People Sector (Green Lantern)** - *X-Men*
+* **[A2] Green Lantern**: **Manager of People**. `agents/L2_A2_GreenLantern.md`
+    * **Squad**: [Prof X](agents/L2_A3_ProfessorX.md) (Vision), [Cyclops](agents/L2_A3_Cyclops.md) (Field), [Jean](agents/L2_A3_JeanGrey.md) (Empathy), [Beast](agents/L2_A3_Beast.md) (Knowledge).
+
+#### **6. IT Sector (Cyborg)** - *Kang Dynasty*
+* **[A2] Cyborg**: **Manager of IT**. `agents/L2_A2_Cyborg.md`
+    * **Squad**: [Kang](agents/L2_A3_Kang.md) (Repo), [Immortus](agents/L2_A3_Immortus.md) (Legacy), [Iron Lad](agents/L2_A3_IronLad.md) (New), [Rama-Tut](agents/L2_A3_RamaTut.md) (Access).
+
+#### **7. Legal Sector (Aquaman)** - *Eternals*
+* **[A2] Aquaman**: **Manager of Legal**. `agents/L2_A2_Aquaman.md`
+    * **Squad**: [Ikaris](agents/L2_A3_Ikaris.md) (Force), [Ajak](agents/L2_A3_Ajak.md) (Compliance), [Phastos](agents/L2_A3_Phastos.md) (IP), [Thena](agents/L2_A3_Thena.md) (Defense).
