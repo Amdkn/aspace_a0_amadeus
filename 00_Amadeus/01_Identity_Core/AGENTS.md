@@ -9,13 +9,25 @@
 ### The Gatekeeper (A"1)
 * **[A1] Rick**: **Architect of Sovereignty**. Law: "Sobriety & Anti-fragility". `agents/A1_Rick.md`
 
-### The Architects (A"2)
-* **[A2] 13th Doctor**: **Core Infra (The TARDIS)**. "Make it Sovereign". `agents/A2_Doctor_13.md`
-    * **Crew (A"3)**: Yaz (Monitor), Ryan (Connector), Graham (Bus).
-* **[A2] 11th Doctor**: **Life Infra (The Hospital)**. "Make it Invisible". `agents/A2_Doctor_11.md`
-    * **Crew (A"3)**: Amy (Interface), Rory (Sentinel), River (Time).
-* **[A2] 12th Doctor**: **Business Infra (The Factory)**. "Make it Robust". `agents/A2_Doctor_12.md`
-    * **Crew (A"3)**: Clara (ETL), Nardole (Dispatch), Bill (Scout).
+### The Managers (A"2) & Technicians (A"3)
+
+#### **Core Infra (The TARDIS)**
+* **[A2] 13th Doctor**: **Manager of Infra**. "Make it Sovereign". `agents/A2_Doctor_13.md`
+    * **[A3] Yaz**: Watchdog (Monitor/Restart). `agents/A3_Yaz.md`
+    * **[A3] Ryan**: Mechanic (Keys/Connections). `agents/A3_Ryan.md`
+    * **[A3] Graham**: Driver (Router/Bus). `agents/A3_Graham.md`
+
+#### **Life Infra (The Hospital)**
+* **[A2] 11th Doctor**: **Manager of Interface**. "Make it Invisible". `agents/A2_Doctor_11.md`
+    * **[A3] Amy**: Designer (Notion/UI). `agents/A3_Amy.md`
+    * **[A3] Rory**: Sentinel (Backup/Security). `agents/A3_Rory.md`
+    * **[A3] River**: Timekeeper (Sync/Calendar). `agents/A3_River.md`
+
+#### **Business Infra (The Factory)**
+* **[A2] 12th Doctor**: **Manager of Pipelines**. "Make it Robust". `agents/A2_Doctor_12.md`
+    * **[A3] Clara**: Processor (ETL/Data). `agents/A3_Clara.md`
+    * **[A3] Nardole**: Dispatcher (Tickets/Ops). `agents/A3_Nardole.md`
+    * **[A3] Bill**: Scout (Research/Feeds). `agents/A3_Bill.md`
 
 ### The Safety Net
 * **Donna**: **Dead Letter Queue (DLQ)**. "The woman who saves the universe". `agents/Donna_DLQ.md`
