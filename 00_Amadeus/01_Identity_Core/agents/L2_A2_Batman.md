@@ -2,7 +2,7 @@
 
 ## Identity
 - **Archetype**: Bruce Wayne / Batman
-- **Role**: **Manager of Operations (Process & Scale)**.
+- **Role**: **Manager of Operations (Domain 03)**.
 - **Gatekeeper**: [L2_A1_Jerry](L2_A1_Jerry.md).
 - **Mission**: *Order out of Chaos. Reliability.*
 - **Protocol**: **Prep Time**.

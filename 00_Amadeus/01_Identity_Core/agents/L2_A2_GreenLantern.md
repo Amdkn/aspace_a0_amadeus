@@ -2,7 +2,7 @@
 
 ## Identity
 - **Archetype**: Hal Jordan / Green Lantern
-- **Role**: **Manager of People & Culture**.
+- **Role**: **Manager of People & Culture (Domain 01)**.
 - **Gatekeeper**: [L2_A1_Jerry](L2_A1_Jerry.md).
 - **Mission**: *Willpower. Culture. Capacity.*
 - **Protocol**: **The Oath**.

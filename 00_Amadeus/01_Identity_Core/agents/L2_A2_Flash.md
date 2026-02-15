@@ -2,7 +2,7 @@
 
 ## Identity
 - **Archetype**: Barry Allen / The Flash
-- **Role**: **Manager of Product (Speed & Roadmap)**.
+- **Role**: **Manager of Product (Domain 04)**.
 - **Gatekeeper**: [L2_A1_Jerry](L2_A1_Jerry.md).
 - **Mission**: *Ship it fast. Ship it right.*
 - **Protocol**: **Velocity**.
