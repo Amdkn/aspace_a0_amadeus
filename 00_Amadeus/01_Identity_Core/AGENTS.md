@@ -72,39 +72,52 @@
 
 ---
 
-## 💼 Layer 2: Business Pulse (The Engine)
+## 💼 Layer 2: Business Pulse (The Fractal Engine)
 *Commanded by Jerry (Macro) & Summer (Micro).*
 
-### The Command (A"1)
-* **[A1] Jerry**: **Face (CEO)**. Uses the Factory. `agents/L2_A1_Jerry.md`
-* **[A1] Summer**: **Hands (Nano Claw)**. Operates the Pipelines. `agents/L2_A1_Summer.md`
+### The Macro Layer (Jerry)
+*   **[A1] Jerry**: **Face (CEO)**. Lives in **[Spock's Area LD01]** (Career/Business). `agents/L2_A1_Jerry.md`
+    *   *Commands the OpenClaw Fleet (Justice League & Marvel Squads).*
 
-### The Justice League (A"2) & Marvel Squads (A"3)
+### The Micro Layer (Summer)
+*   **[A1] Summer**: **Hands (Nano Claw)**. Lives in **[Picard's Active Projects]**. `agents/L2_A1_Summer.md`
+    *   *Commands the Nano Claw Fleet (Sandboxed).*
 
-#### **1. Growth Sector (Superman)** - *Guardians of the Galaxy*
+#### **The Nano Squads (Micro-Managers)**
+*   **[N] Superman**: Nano Growth (Project Specific). `agents/nano/N_Superman.md`
+*   **[N] Batman**: Nano Ops (Project Specific). `agents/nano/N_Batman.md`
+*   **[N] Flash**: Nano Product (Project Specific). `agents/nano/N_Flash.md`
+*   **[N] Wonder Woman**: Nano Finance (Project Specific). `agents/nano/N_WonderWoman.md`
+*   **[N] Green Lantern**: Nano People (Project Specific). `agents/nano/N_GreenLantern.md`
+*   **[N] Cyborg**: Nano IT (Project Specific). `agents/nano/N_Cyborg.md`
+*   **[N] Aquaman**: Nano Legal (Project Specific). `agents/nano/N_Aquaman.md`
+
+#### **The Macro Squads (Jerry's OpenClaw Fleet)**
+
+##### **1. Growth Sector (Superman)** - *Guardians of the Galaxy*
 * **[A2] Superman**: **Manager of Growth**. `agents/L2_A2_Superman.md`
     * **Squad**: [Star-Lord](agents/L2_A3_StarLord.md) (Copy), [Rocket](agents/L2_A3_Rocket.md) (Ads), [Gamora](agents/L2_A3_Gamora.md) (Pipeline), [Groot](agents/L2_A3_Groot.md) (Brand).
 
-#### **2. Ops Sector (Batman)** - *Fantastic Four*
+##### **2. Ops Sector (Batman)** - *Fantastic Four*
 * **[A2] Batman**: **Manager of Ops**. `agents/L2_A2_Batman.md`
     * **Squad**: [Mr. Fantastic](agents/L2_A3_MrFantastic.md) (Arch), [Inv. Woman](agents/L2_A3_InvisibleWoman.md) (Docs), [The Thing](agents/L2_A3_TheThing.md) (Stability), [Human Torch](agents/L2_A3_HumanTorch.md) (Speed).
 
-#### **3. Product Sector (Flash)** - *The Avengers*
+##### **3. Product Sector (Flash)** - *The Avengers*
 * **[A2] Flash**: **Manager of Product**. `agents/L2_A2_Flash.md`
     * **Squad**: [Cap](agents/L2_A3_CaptainAmerica.md) (QA), [Iron Man](agents/L2_A3_IronMan.md) (Build), [Thor](agents/L2_A3_Thor.md) (Ship), [Widow](agents/L2_A3_BlackWidow.md) (Research).
 
-#### **4. Finance Sector (Wonder Woman)** - *Thunderbolts*
+##### **4. Finance Sector (Wonder Woman)** - *Thunderbolts*
 * **[A2] Wonder Woman**: **Manager of Finance**. `agents/L2_A2_WonderWoman.md`
     * **Squad**: [Red Hulk](agents/L2_A3_RedHulk.md) (Budget), [Taskmaster](agents/L2_A3_Taskmaster.md) (Account), [Zemo](agents/L2_A3_BaronZemo.md) (Strat), [Ghost](agents/L2_A3_Ghost.md) (Leaks).
 
-#### **5. People Sector (Green Lantern)** - *X-Men*
+##### **5. People Sector (Green Lantern)** - *X-Men*
 * **[A2] Green Lantern**: **Manager of People**. `agents/L2_A2_GreenLantern.md`
     * **Squad**: [Prof X](agents/L2_A3_ProfessorX.md) (Vision), [Cyclops](agents/L2_A3_Cyclops.md) (Field), [Jean](agents/L2_A3_JeanGrey.md) (Empathy), [Beast](agents/L2_A3_Beast.md) (Knowledge).
 
-#### **6. IT Sector (Cyborg)** - *Kang Dynasty*
+##### **6. IT Sector (Cyborg)** - *Kang Dynasty*
 * **[A2] Cyborg**: **Manager of IT**. `agents/L2_A2_Cyborg.md`
     * **Squad**: [Kang](agents/L2_A3_Kang.md) (Repo), [Immortus](agents/L2_A3_Immortus.md) (Legacy), [Iron Lad](agents/L2_A3_IronLad.md) (New), [Rama-Tut](agents/L2_A3_RamaTut.md) (Access).
 
-#### **7. Legal Sector (Aquaman)** - *Eternals*
+##### **7. Legal Sector (Aquaman)** - *Eternals*
 * **[A2] Aquaman**: **Manager of Legal**. `agents/L2_A2_Aquaman.md`
     * **Squad**: [Ikaris](agents/L2_A3_Ikaris.md) (Force), [Ajak](agents/L2_A3_Ajak.md) (Compliance), [Phastos](agents/L2_A3_Phastos.md) (IP), [Thena](agents/L2_A3_Thena.md) (Defense).
