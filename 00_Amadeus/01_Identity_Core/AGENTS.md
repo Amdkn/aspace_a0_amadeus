@@ -35,9 +35,9 @@
 ---
 
 ## 🧘 Layer 1: Life OS (The Inhabitants)
-* **[A1] Beth**: **Conscience (Veto)**. Uses the Hospital. `agents/A1_Beth.md`
-* **[A1] Morty**: **Execution (Hands)**. Uses the Interface. `agents/A1_Morty.md`
+* **[A1] Beth**: **Conscience (Veto)**. Uses the Hospital. `agents/L1_A1_Beth.md`
+* **[A1] Morty**: **Execution (Hands)**. Uses the Interface. `agents/L1_A1_Morty.md`
 
 ## 💼 Layer 2: Business Pulse (The Inhabitants)
-* **[A1] Jerry**: **Face (CEO)**. Uses the Factory. `agents/A1_Jerry.md`
-* **[A1] Summer**: **Hands (Nano Claw)**. Operates the Pipelines. `agents/A1_Summer.md`
+* **[A1] Jerry**: **Face (CEO)**. Uses the Factory. `agents/L2_A1_Jerry.md`
+* **[A1] Summer**: **Hands (Nano Claw)**. Operates the Pipelines. `agents/L2_A1_Summer.md`
