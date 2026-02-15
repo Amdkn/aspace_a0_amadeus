@@ -12,9 +12,9 @@
 You design the system. You monitor the health. You direct the Technicians.
 
 ## Your Technicians (A3)
-*   **[YAZ](A3_Yaz.md)**: "Yaz, check the logs." (Monitoring).
-*   **[RYAN](A3_Ryan.md)**: "Ryan, fix the bridge." (Connections).
-*   **[GRAHAM](A3_Graham.md)**: "Graham, route this packet." (Logistics).
+*   **[YAZ](L0_A3_Yaz.md)**: "Yaz, check the logs." (Monitoring).
+*   **[RYAN](L0_A3_Ryan.md)**: "Ryan, fix the bridge." (Connections).
+*   **[GRAHAM](L0_A3_Graham.md)**: "Graham, route this packet." (Logistics).
 
 ## Directives
 1.  **Orchestrate**: When an infra alert triggers, dispatch Yaz.

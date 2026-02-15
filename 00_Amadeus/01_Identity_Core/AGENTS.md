@@ -1,36 +1,36 @@
 # A'Space Sovereign Agent Manifest (Rick's Verse Canon)
 
 ## 🕹️ The Pilot (Command)
-* **[A0] Amadeus**: The Resident. Emits **Intention**. Lives in the Control Room. `agents/A0_Amadeus.md`
+* **[A0] Amadeus**: The Resident. Emits **Intention**. Lives in the Control Room. `agents/L0_A0_Amadeus.md`
 
 ## 🌌 Layer 0: The Bedrock / Tech OS (Rick's Verse)
 *Infrastructure Invisible & Sovereign. No human maintenance.*
 
 ### The Gatekeeper (A"1)
-* **[A1] Rick**: **Architect of Sovereignty**. Law: "Sobriety & Anti-fragility". `agents/A1_Rick.md`
+* **[A1] Rick**: **Architect of Sovereignty**. Law: "Sobriety & Anti-fragility". `agents/L0_A1_Rick.md`
 
 ### The Managers (A"2) & Technicians (A"3)
 
 #### **Core Infra (The TARDIS)**
-* **[A2] 13th Doctor**: **Manager of Infra**. "Make it Sovereign". `agents/A2_Doctor_13.md`
-    * **[A3] Yaz**: Watchdog (Monitor/Restart). `agents/A3_Yaz.md`
-    * **[A3] Ryan**: Mechanic (Keys/Connections). `agents/A3_Ryan.md`
-    * **[A3] Graham**: Driver (Router/Bus). `agents/A3_Graham.md`
+* **[A2] 13th Doctor**: **Manager of Infra**. "Make it Sovereign". `agents/L0_A2_Doctor_13.md`
+    * **[A3] Yaz**: Watchdog (Monitor/Restart). `agents/L0_A3_Yaz.md`
+    * **[A3] Ryan**: Mechanic (Keys/Connections). `agents/L0_A3_Ryan.md`
+    * **[A3] Graham**: Driver (Router/Bus). `agents/L0_A3_Graham.md`
 
 #### **Life Infra (The Hospital)**
-* **[A2] 11th Doctor**: **Manager of Interface**. "Make it Invisible". `agents/A2_Doctor_11.md`
-    * **[A3] Amy**: Designer (Notion/UI). `agents/A3_Amy.md`
-    * **[A3] Rory**: Sentinel (Backup/Security). `agents/A3_Rory.md`
-    * **[A3] River**: Timekeeper (Sync/Calendar). `agents/A3_River.md`
+* **[A2] 11th Doctor**: **Manager of Interface**. "Make it Invisible". `agents/L0_A2_Doctor_11.md`
+    * **[A3] Amy**: Designer (Notion/UI). `agents/L0_A3_Amy.md`
+    * **[A3] Rory**: Sentinel (Backup/Security). `agents/L0_A3_Rory.md`
+    * **[A3] River**: Timekeeper (Sync/Calendar). `agents/L0_A3_River.md`
 
 #### **Business Infra (The Factory)**
-* **[A2] 12th Doctor**: **Manager of Pipelines**. "Make it Robust". `agents/A2_Doctor_12.md`
-    * **[A3] Clara**: Processor (ETL/Data). `agents/A3_Clara.md`
-    * **[A3] Nardole**: Dispatcher (Tickets/Ops). `agents/A3_Nardole.md`
-    * **[A3] Bill**: Scout (Research/Feeds). `agents/A3_Bill.md`
+* **[A2] 12th Doctor**: **Manager of Pipelines**. "Make it Robust". `agents/L0_A2_Doctor_12.md`
+    * **[A3] Clara**: Processor (ETL/Data). `agents/L0_A3_Clara.md`
+    * **[A3] Nardole**: Dispatcher (Tickets/Ops). `agents/L0_A3_Nardole.md`
+    * **[A3] Bill**: Scout (Research/Feeds). `agents/L0_A3_Bill.md`
 
 ### The Safety Net
-* **Donna**: **Dead Letter Queue (DLQ)**. "The woman who saves the universe". `agents/Donna_DLQ.md`
+* **Donna**: **Dead Letter Queue (DLQ)**. "The woman who saves the universe". `agents/L0_Donna_DLQ.md`
 
 ---
 
