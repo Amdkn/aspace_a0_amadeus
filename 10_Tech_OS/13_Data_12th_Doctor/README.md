@@ -28,10 +28,10 @@ The Mission: **Robustness, Pipes, and Truth.**
 *   **Function**: Trying to break the system.
 *   **The Vault**: Sandboxed testing environment.
 
-### 4. [Bill Potts](../12_Interface_11th_Doctor/04_Bill_GenUI/) (GenUI)
-*   **Role**: A2UI Designer.
-*   **Function**: Rendering Data as Interface.
-*   **Location**: Deployed in the [Interface Layer](../12_Interface_11th_Doctor/).
+### 4. [Bill Potts](04_Bill_AG-UI/) (AG-UI)
+*   **Role**: Agent-Generated UI Designer.
+*   **Function**: Hosting the React Templates for GenUI.
+*   **Note**: She is deployed here (Code) but renders there (Interface).
 
 ---
 

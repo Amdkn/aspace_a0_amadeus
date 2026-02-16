@@ -1,8 +1,8 @@
-# 04_Bill_GenUI (The Interface Designer)
+# 04_Bill_AG-UI (The Interface Designer)
 
 **The Agent-Generated UI (Ag-UI / A2UI) System.**
 Bill translates raw Data (JSON) into Human Experiences (React Components).
-She works for the 12th Doctor (Data), but lives here in the 11th Doctor's Interface.
+She works for the **12th Doctor** (Data) but projects her work into the **11th Doctor's** Interface.
 
 ---
 
@@ -16,8 +16,7 @@ She works for the 12th Doctor (Data), but lives here in the 11th Doctor's Interf
 *   **Process**: Bill selects the `<CpuAlert variant="critical" />` component.
 *   **Output**: A beautiful red card on the Dashboard.
 
-## 🧩 The Component Library
-Bill maintains the **Design System** (Atomic Design):
-*   **Atoms**: Buttons, Inputs, Icons.
-*   **Molecules**: Cards, Forms, Lists.
-*   **Organisms**: Full Dashboards.
+## 🧩 The Protocol (AG-UI)
+1.  **Schema Definition**: Defined by Clara (MCP).
+2.  **Logic Processing**: Handled by OpenClaw.
+3.  **Rendering**: Executed by Bill (React Server Components).

@@ -28,6 +28,11 @@ The Vision: **Web Desktop (os.ryo.lu)** x **Metaverse (WorkAdventure)**.
 *   **App**: `River_Diary.exe`.
 *   **Focus**: PKM, Calendar, Future Planning.
 
+### 4. [Bill Potts](../13_Data_12th_Doctor/04_Bill_AG-UI/) (Guest Star / GenUI)
+*   **Metaphor**: The Kitchen.
+*   **Role**: **AG-UI Renderer**.
+*   **Note**: Bill belongs to the 12th Doctor (Data), but we use her React Components here to display dynamic content.
+
 ## 🏗️ Technical Stack (The Dream)
 *   **Desktop**: React / Chakra UI (Draggable Windows).
 *   **Map**: Phaser 3 (WorkAdventure Iframe).
