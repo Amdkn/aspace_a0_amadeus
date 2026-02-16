@@ -1,27 +1,37 @@
 # 12_Interface_11th_Doctor (The Hospital)
 
 **The Frontend, API Gateway, and User Interaction Layer.**
-This is how the User (Amadeus) speaks to the Machine.
+Managed by the **11th Doctor** (Core Interface).
+The Vision: **Web Desktop (os.ryo.lu)** x **Metaverse (WorkAdventure)**.
 
 ---
 
 ## 🎻 The Madman: 11th Doctor [A2]
-*   **Role**: **Manager of Interfaces**.
+*   **Role**: **Window Manager & Orchestrator**.
 *   **Archetype**: The Old Soul in a Young Body.
 *   **Mission**: "Geronimo!" (Make it fast, make it fun).
 
-## 🎀 The Companions (Squad)
-1.  **Amy [A3]**: **The Designer**.
-    *   *Function*: UI/UX, CSS, Notion Dashboards.
-2.  **Rory [A3]**: **The Sentinel**.
-    *   *Function*: Authentication (Supabase Auth), Guardrails, WAF.
-3.  **River [A3]**: **The Timekeeper**.
-    *   *Function*: Sync, Calendar API, Scheduler.
+## 🎀 The Companions (The Interface Squad)
 
-## 🖥️ The Stack
-*   **Web**: Next.js / React.
-*   **Dashboard**: Notion / Obsidian.
-*   **Bot**: Telegram (OpenClaw).
+### 1. [Amy Pond](01_Amy_Social/) (Social)
+*   **Metaphor**: The Living Room.
+*   **App**: `Amy_Network.exe`.
+*   **Focus**: Relationships, Stories, CRM.
+
+### 2. [Rory Williams](02_Rory_Health/) (Health)
+*   **Metaphor**: The Gym / The Gate.
+*   **App**: `Rory_Sentinel.exe`.
+*   **Focus**: Quantified Self, Focus Mode, Protection.
+
+### 3. [River Song](03_River_Knowledge/) (Knowledge)
+*   **Metaphor**: The Library.
+*   **App**: `River_Diary.exe`.
+*   **Focus**: PKM, Calendar, Future Planning.
+
+## 🏗️ Technical Stack (The Dream)
+*   **Desktop**: React / Chakra UI (Draggable Windows).
+*   **Map**: Phaser 3 (WorkAdventure Iframe).
+*   **Brains**: OpenClaw (Socket.io Bridge).
 
 ---
 
